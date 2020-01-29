@@ -1,3 +1,2 @@
 # OC_Rep
-Cours Github OC
-Premier push
+Cours Github OC, premier push.
